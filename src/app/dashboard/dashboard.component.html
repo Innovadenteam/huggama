@@ -1,0 +1,190 @@
+<div class="main-content">
+
+    <div class="container-fluid">
+        <div class="row">
+
+        </div>
+        <div class="row">
+
+            <div class="col-lg-6 col-md-6">
+                <div class="card">
+                    <div class="card-header" data-background-color="orange">
+                        <h4 class="title">Toilet Stats</h4>
+                        <p class="category"></p>
+                    </div>
+                    <div class="card-content table-responsive">
+                        <table class="table table-hover">
+                            <thead class="text-warning">
+                                <tr>
+                                    <th># Toilet</th>
+                                    <th>Floor</th>
+                                    <th>Details</th>
+                                    <th>Good</th>
+                                    <th>Okay</th>
+                                    <th>Bad</th>
+                                    <th>User delight</th>
+                                    <th>footfalls</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr *ngFor="let device of devices$ | async | reverse">
+                                    <td>{{device.toilet}}</td>
+                                    <td>{{device.floor}}</td>
+                                    <td>{{device.details}}</td>
+                                    <td>{{device.overallRating.good}}</td>
+                                    <td>{{device.overallRating.okay}}</td>
+                                    <td>{{device.overallRating.bad}}</td>
+                                    <td>{{device.overallRating.cs}}%</td>
+                                    <td>{{device.footfalls}}</td>
+                                </tr>
+                                <!-- z -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="card card-stats">
+                        <div class="card-header" data-background-color="red">
+                            <i class="material-icons fa-beat">favorite_border</i>
+                        </div>
+                        <div class="card-content">
+                            <p class="category">Overall user delight</p>
+                            <h3 class="title">{{customerSatisfaction}}%</h3>
+                        </div>
+                        <div class="card-footer">
+                            <div class="stats">
+                                <i class="material-icons">update</i> Just Updated
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="card card-stats">
+                        <div class="card-header" data-background-color="green">
+                            Demo
+                        </div>
+                        <div class="card-content">
+                            <p class="category">Feedback Buttons</p>
+                            <button class="btn btn-success" (click)="getFeedback(7)">
+                                <i class="material-icons">sentiment_very_satisfied</i>
+                            </button>
+                            <button class="btn btn-warning" (click)="getFeedback(5)">
+                                <i class="material-icons">sentiment_neutral</i>
+                            </button>
+                            <button class="btn btn-danger" (click)="getFeedback(3)">
+                                <i class="material-icons">sentiment_dissatisfied</i>
+                            </button>
+                        </div>
+                        <div class="card-footer">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header" data-background-color="green">
+                        Daily Stats
+                    </div>
+                    <div class="card-content" style="min-height: 100px">
+                        <span *ngIf="showChart; then chart else message"></span>
+
+                        <ng-template #chart>
+                            <!-- <ngx-charts-line-chart [results]="chartData" [timeline]="timeline" [scheme]="colorScheme" [gradient]="gradient" [xAxis]="showXAxis"
+                                [yAxis]="showYAxis" [legend]="showLegend" [showXAxisLabel]="showXAxisLabel" [showYAxisLabel]="showYAxisLabel"
+                                [xAxisLabel]="xAxisLabel" [yAxisLabel]="yAxisLabel" [autoScale]="autoScale">
+                            </ngx-charts-line-chart> -->
+                            <div class="col-md-5">
+                                    <ngx-charts-advanced-pie-chart
+                                        style="line-height: 2.3em;"
+                                        [view]="view"
+                                        [scheme]="colorScheme"
+                                        [results]="pieChart"
+                                        [gradient]="gradient"
+                                        [animations]="false"
+                                        (select)="onSelect($event)">
+                                    </ngx-charts-advanced-pie-chart>
+                            </div>
+                            <div class="col-md-7" style="padding:10px 0px">
+                                    <ngx-charts-bar-vertical-stacked
+                                        [view]="view"
+                                        [scheme]="colorScheme"
+                                        [results]="multi"
+                                        [xAxis]="showXAxis"
+                                        [yAxis]="showYAxis"
+                                        [legend]="showLegend"
+                                        [showXAxisLabel]="showXAxisLabel"
+                                        [showYAxisLabel]="showYAxisLabel"
+                                        [xAxisLabel]="xAxisLabel"
+                                        [yAxisLabel]="yAxisLabel"
+                                        [barPadding]="100"
+                                        (select)="onSelect($event)">
+                                  </ngx-charts-bar-vertical-stacked>
+                            </div>
+                        </ng-template>
+
+                        <ng-template #message>
+                            <div class="loader">
+                                <svg class="circular" viewBox="25 25 50 50">
+                                    <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+                                </svg>
+                            </div>
+                        </ng-template>
+
+                        <p class="category">
+                        </p>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header card-chart" data-background-color="red">
+                        <div class="ct-chart" id="dailySalesChart"></div>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="title">Weekly Stats</h4>
+                        <p class="category">
+                            <span class="text-success">
+                                <i class="fa fa-long-arrow-up"></i> 55% </span> increase in today's ratings.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="stats">
+                            <i class="material-icons">access_time</i> updated 4 minutes ago
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header card-chart" data-background-color="blue">
+                        <div class="ct-chart" id="emailsSubscriptionChart"></div>
+                    </div>
+                    <div class="card-content">
+                        <h4 class="title">Monthly Stats</h4>
+                        <p class="category">
+                            <span class="text-success">
+                                <i class="fa fa-long-arrow-up"></i> 55% </span> increase in today's ratings.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="stats">
+                            <i class="material-icons">access_time</i> campaign sent 2 days ago
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

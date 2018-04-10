@@ -1,0 +1,49 @@
+<div class="main-content">
+
+  <div class="container-fluid">
+    <div class="row">
+
+    </div>
+    <div class="row">
+
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header" data-background-color="purple">
+            Toilet assignment
+          </div>
+          <div class="card-content">
+            <table class="table table-hover">
+              <thead class="text-warning">
+                <tr>
+                  <th>janitor</th>
+                  <th>toilet</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let janitor of janitors$ | async">
+                  <td>{{janitor.name}}</td>
+                  <td>
+                    <angular2-multiselect [data]="toiletList" [(ngModel)]="janitor.seltoilet" [settings]="dropdownSettings" (onSelect)="onItemSelect($event)"
+                      (onDeSelect)="OnItemDeSelect($event)" (onSelectAll)="onSelectAll($event)" (onDeSelectAll)="onDeSelectAll($event)">
+                    </angular2-multiselect>
+                  </td>
+                  <td></td>
+                </tr>
+                <!-- z -->
+              </tbody>
+            </table>
+            <p class="category">
+            </p>
+          </div>
+          <div class="card-footer">
+            <div class="stats">
+              <i class="material-icons">update</i> Just Updated
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,2184 @@
+{
+  "devices" : {
+    "2134" : {
+      "details" : "Near blood bank",
+      "floor" : "G",
+      "footfalls" : 40,
+      "overallRating" : {
+        "bad" : 10,
+        "cs" : "67",
+        "good" : 25,
+        "okay" : 5
+      },
+      "toilet" : "G-B"
+    },
+    "9234" : {
+      "details" : "Near dispensary",
+      "floor" : "G",
+      "footfalls" : 306,
+      "overallRating" : {
+        "bad" : 148,
+        "cs" : 46,
+        "good" : 123,
+        "okay" : 35
+      },
+      "toilet" : "G-A"
+    },
+    "9288" : {
+      "details" : "Near cash counter",
+      "floor" : 1,
+      "footfalls" : 102,
+      "overallRating" : {
+        "bad" : 42,
+        "cs" : 30,
+        "good" : 30,
+        "okay" : 10
+      },
+      "toilet" : "1-A"
+    }
+  },
+  "feedback" : {
+    "-L3Qy_94obl-OXOx3kqB" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516592845552
+    },
+    "-L3R6HnYcUhGVIcR1H6k" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516595129910
+    },
+    "-L3R7kFzVgNW6EXk-fQU" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516595512552
+    },
+    "-L3R8H7ZTcv-eC37Q3rq" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516595651382
+    },
+    "-L3R9k3a2eXBlGnyDPEy" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516596036467
+    },
+    "-L3RSwiGfWhpq-xPiw6Q" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516601068590
+    },
+    "-L3RgVJGY-iCeVp-knPk" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604884472
+    },
+    "-L3RgVVPaSEhFJBDEwqH" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604885263
+    },
+    "-L3RgVibIEcNWxO2sjiO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604886172
+    },
+    "-L3RgW-Cc04UXnTqZwj_" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604887298
+    },
+    "-L3RgWEBV0hMDvCEJrd7" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604888257
+    },
+    "-L3RgWGjh7kNSn69Wnbp" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604888420
+    },
+    "-L3RgWIV7D0D8R2JyQTH" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604888533
+    },
+    "-L3RgXLyI14c_eFQvNV8" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516604892851
+    },
+    "-L3RgXXHHsbaeBDf5QUR" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516604893575
+    },
+    "-L3RgXkRbLa68_-k2uRR" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516604894480
+    },
+    "-L3RgXuwLFmpzmGlUDGK" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516604895153
+    },
+    "-L3RgY9PVK8rDWE0i1vC" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516604896143
+    },
+    "-L3RgYNEoXaKZ6ZePkik" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604897028
+    },
+    "-L3RgYYODlvp7fNWcQnG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604897741
+    },
+    "-L3RgYdrMn0MepEgkDms" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604898156
+    },
+    "-L3RgYfVhGxeowbg4rUN" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604898261
+    },
+    "-L3RgYl5L-f6HnE0iB4M" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604898619
+    },
+    "-L3RgZPqE9nLZS4Wf-_w" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604901291
+    },
+    "-L3RgZRTtzn6NukeHnJM" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604901395
+    },
+    "-L3RgZVesSdAJ9w_BwLz" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604901662
+    },
+    "-L3RgZc5K8n1tVN_Zmai" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604902139
+    },
+    "-L3RgZdq2Eim88QIP78n" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604902251
+    },
+    "-L3RgZmGM38rxAbYstp_" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604902790
+    },
+    "-L3RgZon9yfKWofEZ_og" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604902952
+    },
+    "-L3RgZrq36yTPdHcX5tY" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604903146
+    },
+    "-L3RgZtBm3agsEMG6xCb" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604903233
+    },
+    "-L3RgZxRPv3w6n-ZrjWE" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604903505
+    },
+    "-L3Rg_-50IE68BkB1kyt" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604903675
+    },
+    "-L3Rg_0XxdbZGsJQDNGR" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604903767
+    },
+    "-L3RgaIw5uDQqylSttvx" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604909041
+    },
+    "-L3RgaebAd0Bx9e2Wo9T" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604910492
+    },
+    "-L3RgbQMKRkEyg7RCyG5" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604913612
+    },
+    "-L3RgbbjNERjLgDfsTNB" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604914404
+    },
+    "-L3RgbvkLiqsE0zQIbj5" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516604915685
+    },
+    "-L3Rgej76Hi6PETDlYSQ" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604927165
+    },
+    "-L3Rgem0hLfJbE2Zc18I" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604927350
+    },
+    "-L3RgenoHzG-PVBOOGrT" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604927464
+    },
+    "-L3Rgf2fdUoIujDNh7eU" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604928480
+    },
+    "-L3RgfDoneiUjrL6EJzG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516604929192
+    },
+    "-L3RiqWsTNe9Ej4byqgz" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516605499757
+    },
+    "-L3RjTxVGIrenUMJf17I" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605665365
+    },
+    "-L3RjU3wC0uxVMVOs3Gu" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605665841
+    },
+    "-L3RjUDKfAAHIVv3_JRE" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605666442
+    },
+    "-L3RjUG2zASKS6HPdj--" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605666615
+    },
+    "-L3RjUMeui8jCA2bjuSS" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605667039
+    },
+    "-L3RjUXSHhT6oGMCIFlg" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605667729
+    },
+    "-L3RjUZN3JwFkgVApXOW" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605667853
+    },
+    "-L3RjVF9jrp2RXHx8tE3" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605670654
+    },
+    "-L3RjVGl1QhhIEABdxpg" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605670758
+    },
+    "-L3RjVLMo8ByznerCRnO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605671052
+    },
+    "-L3RjVNzVliJFsgaOYL0" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605671220
+    },
+    "-L3RjVPV3DZ8OL2oP_VG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605671317
+    },
+    "-L3RjVdjAftlkRjEHxG5" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516605672291
+    },
+    "-L3TCA5x7wPLkCNRMws8" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516630225505
+    },
+    "-L3TCAEw5mAejR7seISX" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516630226081
+    },
+    "-L3TCAGejp4GQqIEfxhM" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516630226191
+    },
+    "-L3TCAiLzKDgrS6oQchG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516630228027
+    },
+    "-L3TJjKyJs7qjin1fXCM" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516632208931
+    },
+    "-L3TJjV9aNepw3HiRXvX" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516632209582
+    },
+    "-L3TJk2dYwl5xK7a4Dmq" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516632211854
+    },
+    "-L3TJkRXVIaEB1-u8BrO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516632213446
+    },
+    "-L3TJlrAOfmuV_4jAixu" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632219247
+    },
+    "-L3TJltb8xyqaa1YCwsJ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632219404
+    },
+    "-L3TJlwPeNzsrFlTIErT" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632219582
+    },
+    "-L3TJlzEuKgscS42I9R_" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632219764
+    },
+    "-L3TJm-eR2D8R1-aAfyn" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632219855
+    },
+    "-L3TJm3sSqKORSyI2KhN" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632220124
+    },
+    "-L3TJm5G_sP4RbZzUQ4i" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632220214
+    },
+    "-L3TJmBdLFDPR7Dbht2j" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632220622
+    },
+    "-L3TJmEBVwhg67FlhSEp" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632220785
+    },
+    "-L3TJmH8B4Fnc1Mt1ur7" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632220974
+    },
+    "-L3TJmJnhWGgQsNvKKBr" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632221144
+    },
+    "-L3TJmMZ31HQIvZaMqan" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632221321
+    },
+    "-L3TJmP-7X8tPgnOVKWp" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632221477
+    },
+    "-L3TJmQzSgXxQwXZzkqI" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516632221604
+    },
+    "-L3Vtrt0NNjQdgGr_UaR" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516675498327
+    },
+    "-L3VtsWMdGoWdycj2cgp" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516675500912
+    },
+    "-L3Vtt8FXmfOOvIWqPEV" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516675503464
+    },
+    "-L3Vttb28gH_xWeMKSeK" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516675505371
+    },
+    "-L3Yrj_3netnN2AysERN" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516725270924
+    },
+    "-L3Yrjz2eT5khAkLvsWl" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516725272587
+    },
+    "-L3Yrk8w-lzjnAD96YLq" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516725273284
+    },
+    "-L3YryzxSCvaFf0edJF1" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516725334036
+    },
+    "-L3Yrz9eryyMbuLhXMru" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516725334722
+    },
+    "-L3YrzJ80b1PBelzC-th" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516725335329
+    },
+    "-L3YrziguKbPSSG5M_fu" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516725337028
+    },
+    "-L3YsB9-XqIlPM9vq8Rb" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516725387927
+    },
+    "-L3YsBhVx89n3WWJ6USi" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516725390200
+    },
+    "-L3YsCiLMPwu-hk122Jt" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516725394350
+    },
+    "-L3Yt9mLkuChmaQuZFHr" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516725644465
+    },
+    "-L3YtAdkYYyNGXuWanSt" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516725648011
+    },
+    "-L3YtBQWyB9c1egq0vH-" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516725651196
+    },
+    "-L3anB_9Epz59SyWXY0x" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516774412777
+    },
+    "-L3cevb-L2Pf47MlUpCr" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516805799338
+    },
+    "-L3cevnJBmIiI8wRCk7H" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516805800133
+    },
+    "-L3cew8yw29BE3lZETuO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516805801583
+    },
+    "-L3cewP0J6QEneaJhT0z" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516805802610
+    },
+    "-L3cewaRrVmF4eRKjCyt" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516805803406
+    },
+    "-L3cezjGhPf-Z5ZpJYvf" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805816257
+    },
+    "-L3cezrCJ3OZY_0I8WBR" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805816767
+    },
+    "-L3cf-3bn2Jc8ed7t9Oc" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805817625
+    },
+    "-L3cf-CNWeKXbxUANjLk" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805818186
+    },
+    "-L3cf-DEpA0MNxn-O-5t" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805818240
+    },
+    "-L3cf-DtJsSFccoaB6Ez" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805818283
+    },
+    "-L3cf-F5oXhDsyhgh92D" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805818359
+    },
+    "-L3cf-JlLbaXn0yV1a2a" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805818659
+    },
+    "-L3cf-USbs7Y7bQBffPS" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805819343
+    },
+    "-L3cf-V6YEcjJLl6hgL6" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805819384
+    },
+    "-L3cf-dX3sYroWaYRDz2" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805819987
+    },
+    "-L3cf-fl0q5l3cgtEf6j" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805820130
+    },
+    "-L3cf-iUu2KCF488LVe3" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516805820304
+    },
+    "-L3dDxRTzpJzeKRtkktO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815245128
+    },
+    "-L3dDxspLNCjUjXcVwLq" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815246945
+    },
+    "-L3dDy3MdnJBMprK4_al" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815247682
+    },
+    "-L3dDy62hbviwvyM-_Sl" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815247854
+    },
+    "-L3dDy8bJou1r7XN7FqO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815248019
+    },
+    "-L3dDyBLON0l-pv6KclS" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815248194
+    },
+    "-L3dDyDkz8CkN_KYJFO1" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815248348
+    },
+    "-L3dDyMbz0QY2GiNNfhq" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815248915
+    },
+    "-L3dDyOhTJxuTAFRmiUn" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815249047
+    },
+    "-L3dDyR4kzzoMCQMN2C8" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815249201
+    },
+    "-L3dDyTSYdktLkWFrjyg" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815249352
+    },
+    "-L3dDyWd8PFyKjywPjHa" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516815249557
+    },
+    "-L3dDyyDn5JEGTov-_WV" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815251386
+    },
+    "-L3dDz03BNZ-AXVOlIyT" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815251568
+    },
+    "-L3dDz2nlkeW7TdYkOI3" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815251742
+    },
+    "-L3dDz5PNeDoep00MjSm" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815251910
+    },
+    "-L3dDz81HFZd907CVXH3" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815252078
+    },
+    "-L3dDzAl92XDHvCpMdvh" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815252253
+    },
+    "-L3dDzDNnK8I5BtVWfMG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815252420
+    },
+    "-L3dDzGEzdhIVDv0iueg" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815252603
+    },
+    "-L3dDzIX97wSqnIrhNGu" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815252750
+    },
+    "-L3dDzKwmkb63NCiAbrf" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815252904
+    },
+    "-L3dDzP6nCVIedZiDtef" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516815253171
+    },
+    "-L3dDznuAZ4JrwtpiVJ0" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815254822
+    },
+    "-L3dDzqT9_f4u_GKbB12" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815254986
+    },
+    "-L3dDzsw3h1Tc4Vh70mD" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815255144
+    },
+    "-L3dDzvZ6uEjRg_Cc7cS" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815255312
+    },
+    "-L3dDzxqp6mXVyQwwm-c" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815255458
+    },
+    "-L3dE--bzxmgyUYQO6TO" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815255635
+    },
+    "-L3dE-1tGDlBI0ao3Jed" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815255781
+    },
+    "-L3dE-43L7eF3XdwKjen" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815255920
+    },
+    "-L3dE-6ZM9WIEAKAmAO9" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815256080
+    },
+    "-L3dE-9Bui4Wn-U7YMcf" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815256248
+    },
+    "-L3dE-Bi5rIZN5q3DFXd" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815256410
+    },
+    "-L3dE-ELjxs81NAtMTEp" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815256577
+    },
+    "-L3dE-Gs50R6NSN_Vh3a" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815256740
+    },
+    "-L3dE-JOW5tyoJlZoJuX" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815256901
+    },
+    "-L3dE-M-Wuy9xu9cSCfk" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815257067
+    },
+    "-L3dE-Od9venWux8PgBW" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815257237
+    },
+    "-L3dE-SQt__B6A03TPQX" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815257479
+    },
+    "-L3dE-UPXl9L5dvrNEuy" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815257606
+    },
+    "-L3dE-W5HRVwFlW73_0s" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815257714
+    },
+    "-L3dE-YXpIqzEljwFUkA" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815257869
+    },
+    "-L3dE-a5VLb5_Zum01t-" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815258034
+    },
+    "-L3dE-cqI4XoVYrb2GRP" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815258209
+    },
+    "-L3dE-fL6volPOFCsbmu" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815258370
+    },
+    "-L3dE-hzdbVjP7Zzd_pr" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815258539
+    },
+    "-L3dE-kUTuZcm-KgTpPp" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815258699
+    },
+    "-L3dE-n5mp0qSkfkCBI8" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815258866
+    },
+    "-L3dE-piuqAUAHt2FpPv" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815259034
+    },
+    "-L3dE-shjMs5WH8NGtRY" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815259224
+    },
+    "-L3dE-u_7dX1xkHbTF3v" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815259345
+    },
+    "-L3dE-xV6baNZkEvJSje" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815259532
+    },
+    "-L3dE0-6_kVhM7lk4pa-" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815259699
+    },
+    "-L3dE01rUDUsFJR3zGxo" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815259874
+    },
+    "-L3dE06MUYBYZiN76Fyr" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815260163
+    },
+    "-L3dE07Mg-izGjDByrCU" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815260227
+    },
+    "-L3dE0A4hoLoEx55X4gb" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815260401
+    },
+    "-L3dE0CZEwHzQB0o9H6q" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815260560
+    },
+    "-L3dE0F7Prf2x-7OoDEg" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815260724
+    },
+    "-L3dE0HVFeEqx2Zf9Ip8" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815260875
+    },
+    "-L3dE0K7UmIy5pUPfI9Q" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815261044
+    },
+    "-L3dE0MjGN_ysDJBwJ2W" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815261211
+    },
+    "-L3dE0Q4F3u1y9r6QmfQ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815261425
+    },
+    "-L3dE0S6FLArYmX7nhfs" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815261554
+    },
+    "-L3dE0UpsTRH_78GS6Br" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815261728
+    },
+    "-L3dE0XfT5JT77r44Dmd" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815261911
+    },
+    "-L3dE0_QK5o3bbpyISz1" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815262086
+    },
+    "-L3dE0cGK7PgSXWcn41s" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815262269
+    },
+    "-L3dE0fDHu0-H-yyk1Fd" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815262458
+    },
+    "-L3dE0kaacXpkSYxGukA" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815262802
+    },
+    "-L3dE0knNnKw-VGczOe5" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815262815
+    },
+    "-L3dE0nniaYus_q0tXQZ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815263007
+    },
+    "-L3dE0qHcX_O_t94R442" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815263166
+    },
+    "-L3dE0t5ezEInOvvzSJJ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815263346
+    },
+    "-L3dE0w9rnSG9w1En5M-" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815263542
+    },
+    "-L3dE0z-VuM-lNqq6ta1" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815263724
+    },
+    "-L3dE10b5E8qkItuoyAe" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815263891
+    },
+    "-L3dE15AfdbD0-PO4nUU" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815264183
+    },
+    "-L3dE17_sISgBz65dcBs" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815264337
+    },
+    "-L3dE19bU15W2s9iyR_y" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815264467
+    },
+    "-L3dE1C-Gls-h_HUTa0x" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815264619
+    },
+    "-L3dE1EjumUOZtyJitag" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815264795
+    },
+    "-L3dE1HM2s56YlkyX89o" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815264962
+    },
+    "-L3dE1KIGq21t_XsYJxZ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815265151
+    },
+    "-L3dE1QDggmgwxpCN8jU" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516815265530
+    },
+    "-L3gYNGxZ_WFsBOuAgM3" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870927633
+    },
+    "-L3gYNJhg0rQrty89OYo" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870927810
+    },
+    "-L3gYNMQ5yoi0LI-PIzk" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870927984
+    },
+    "-L3gYNOssbf_T-TzEPw4" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870928141
+    },
+    "-L3gYNSNrbrkNfswr3YQ" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870928364
+    },
+    "-L3gYNVMbI0lAr_GMB_o" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870928556
+    },
+    "-L3gYNXuGaIU8ESpt0R8" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870928719
+    },
+    "-L3gYNaDeCjOWIRRmC7a" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870928931
+    },
+    "-L3gYNdKz2IUvXp-_dDm" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870929130
+    },
+    "-L3gYNgzC3JruFUXjM6E" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870929364
+    },
+    "-L3gYNjyQ0Pdax3FZJfu" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870929555
+    },
+    "-L3gYNkPZq9exU_DH8Py" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870929583
+    },
+    "-L3gYNocb_fPtp_OD3P1" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870929853
+    },
+    "-L3gYNrkRNTSkR7Sd1aq" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870930053
+    },
+    "-L3gYNt3Av-D42xznTBE" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870930136
+    },
+    "-L3gYNxavgqo6qpCYOAn" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870930426
+    },
+    "-L3gYO-1JZwaXKKezLt3" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870930583
+    },
+    "-L3gYO1q4tfmlhGJ_Ss1" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870930763
+    },
+    "-L3gYO6qS4TN4Ad9GuOi" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870931083
+    },
+    "-L3gYO6yd4GAo0JlEs21" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870931091
+    },
+    "-L3gYOCShxbybaBfOTub" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870931442
+    },
+    "-L3gYOCbQJsctavop1cA" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870931452
+    },
+    "-L3gYOHC4lMU1YOof7Lc" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870931746
+    },
+    "-L3gYOKKmmPDEuEg3KC3" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870931945
+    },
+    "-L3gYOLZGKvEpCGdnocz" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870932025
+    },
+    "-L3gYOQSE9eihBjOiLsy" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870932338
+    },
+    "-L3gYOS31pFliZwEiVeA" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870932441
+    },
+    "-L3gYOWd7z91oiNV68IV" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870932734
+    },
+    "-L3gYOZEPCXVjRBzlthM" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870932900
+    },
+    "-L3gYOcCICx0Av4hZjc0" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870933154
+    },
+    "-L3gYOdNlfJd7WA3ho8G" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870933229
+    },
+    "-L3gYOiJE5C2UhYTXyqy" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870933545
+    },
+    "-L3gYOjsR6-4rn1uiEON" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870933645
+    },
+    "-L3gYOpI0HRHoPJsGh-C" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870933992
+    },
+    "-L3gYOqZra6OJ8IyBrjG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516870934072
+    },
+    "-L3lZZUC9YcQ7YcbiHMX" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955128448
+    },
+    "-L3lZZkY9jvK2lWHC2oE" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955129559
+    },
+    "-L3lZ_-BJ3g6InCHQoq0" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955130560
+    },
+    "-L3lZ_ENCLp_66lO6eej" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955131532
+    },
+    "-L3lZ_T87fC9VEKMtw2J" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955132477
+    },
+    "-L3lZ_hfBjtlIvWcIjq3" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955133471
+    },
+    "-L3lZ_xWND_ZpkFB5eH-" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955134484
+    },
+    "-L3lZaBOLY4WAYYUDlD6" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955135437
+    },
+    "-L3lZaQohoO34NRFgEQj" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955136423
+    },
+    "-L3lZafDIlsFEptcODqN" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955137410
+    },
+    "-L3lZcS804WUtGFiz5tq" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955144700
+    },
+    "-L3lZcdx8Ny_nyh_MIkO" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955145521
+    },
+    "-L3lZcgTb4B95deje2Su" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955145681
+    },
+    "-L3lZcizmKLWvA1N9WY6" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955145843
+    },
+    "-L3lZcl_PFasqHyBBZKp" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955146009
+    },
+    "-L3lZcoyY6w6NbWSBu8v" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955146226
+    },
+    "-L3lZcq49IiG6ih3Acxo" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955146297
+    },
+    "-L3lZctD5Rr-JTfjYh4T" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955146498
+    },
+    "-L3lZcvpUXBcrvQlqqs_" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955146665
+    },
+    "-L3lZcyrtHzyZv73McCS" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955146858
+    },
+    "-L3lZd1IgjHi6KP7Q72P" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955147079
+    },
+    "-L3lZd46YQanym8pOXCA" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955147259
+    },
+    "-L3lZd750rClB5UR8PDp" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955147450
+    },
+    "-L3lZd82CIgWKfLeXOJx" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955147511
+    },
+    "-L3lZdAfwSiAw4woA_fJ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955147679
+    },
+    "-L3lZdE_SoymmMG5nggC" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1516955147929
+    },
+    "-L3mQqYdtl6zASXg0zMO" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516969616565
+    },
+    "-L3mQqoKd_r6EvVJG43H" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1516969617638
+    },
+    "-L3mzMLXLkdLh4KqK6S4" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516978925647
+    },
+    "-L3mzMZmd1Xf2Ej3TzMF" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516978926564
+    },
+    "-L3mzM_n8G-TF_MT4Mb5" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516978926630
+    },
+    "-L3mzMazvURyi4GdQ7AH" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516978926705
+    },
+    "-L3mzMeY3Z70_4_2r-ZC" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516978926933
+    },
+    "-L3mzMjgWvwox33AUNUi" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1516978927262
+    },
+    "-L3rX5ybSZKBJYx5uUpy" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517055143435
+    },
+    "-L3rX6DM_i826RpsZv-R" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517055144450
+    },
+    "-L3sEpB6CU4R5gQ0brWK" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517067129173
+    },
+    "-L3sEpR6XoejLP4oPYHG" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517067130203
+    },
+    "-L3scrDNGTnddASkHkLW" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1517073691174
+    },
+    "-L3scrRZayvAfutVtDHL" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1517073692087
+    },
+    "-L3scri5FNWhIuypbtBs" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073693210
+    },
+    "-L3scs2GzDevXsG-hG2y" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517073694566
+    },
+    "-L3scsME48RwZ6UCEg7o" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073695843
+    },
+    "-L3scsgouT5BGtH3ZqMK" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073697225
+    },
+    "-L3sctMBsRVUa0IDJvan" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073699936
+    },
+    "-L3sctsa5HBufA8-M6fL" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073702073
+    },
+    "-L3scuO9QlZKrZ1XdtBL" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073704157
+    },
+    "-L3scuqLqqtkhWmQsSno" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073706026
+    },
+    "-L3scv4D2jGmUKUb5ML0" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073706978
+    },
+    "-L3scvGzcI04rG0CjmLj" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073707796
+    },
+    "-L3scvHdI1vaQ_GhdjfK" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073707837
+    },
+    "-L3scvIIj8Sjj3jXkTUa" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073707880
+    },
+    "-L3scvJPBDyUW__jiHdZ" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073707950
+    },
+    "-L3scvNECr7tRMGVGEvT" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073708195
+    },
+    "-L3scvbu2tYKRTM1CtlN" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073709199
+    },
+    "-L3scvcZVZYpuOV239sn" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073709241
+    },
+    "-L3scvdENaeOr47R7Z7C" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073709283
+    },
+    "-L3scvdzHyzwuNdX0EKY" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073709332
+    },
+    "-L3scvfmGynpJOxi0G3p" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073709447
+    },
+    "-L3scvlcfyZlG4CleoSk" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073709820
+    },
+    "-L3scw-shTJFGOyhWT0R" : {
+      "bad" : 1,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 0,
+      "time" : 1517073710797
+    },
+    "-L3sdiHCu0mga6T93X2m" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517073917002
+    },
+    "-L3sdidpUtSSGO7kCvqe" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517073918520
+    },
+    "-L3sdjAKdC5O4gYFQgUJ" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517073920665
+    },
+    "-L3spBT2d-b0AbseUv-S" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517076923449
+    },
+    "-L3spBmsysS5mKlYbMc2" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517076924784
+    },
+    "-L3spC5cFgpwXIXzcbCe" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 0,
+      "okay" : 1,
+      "time" : 1517076926049
+    },
+    "-L3spCQAo2jhTz29RC2f" : {
+      "bad" : 0,
+      "d_id" : 9234,
+      "good" : 1,
+      "okay" : 0,
+      "time" : 1517076927364
+    }
+  }
+}
